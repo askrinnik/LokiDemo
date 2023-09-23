@@ -1,2 +1,6 @@
 # LokiDemo
-This is a repository with source code with C# applications written during a demo sessions about Grafana Loki using
+This is a repository with source code with C# applications written during a webinar about logging .NET applications to Grafana Loki.
+
+Video record: https://youtu.be/PBfKDyNPBug (rus)
+
+
